@@ -13,9 +13,12 @@ The view is in resources/views, the view is using layout which is in resources/v
 The different snippets of the layout are in resources/views/includes, resources/views/pages/, and resources/views/shared
 
 # For stylesheet
-I am using Sass, and the files for this are located in resources/sass folder
+I am using Sass, and the files for this are located in resources/sass folde
 
 I am using twitter bootstrap to style the content
+
+# Frontend
+The frontend is using laravel own templating engine called blade.
 
 # The database
 I am using MySQL for this task and have included the database schema in /database directory, the file is taskmanager_2017-06-15.sql
