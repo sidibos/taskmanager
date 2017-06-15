@@ -29,6 +29,8 @@ After cloning the repos, do composer install
 Also remember to install npm and node and following the instruction from the link below to make Sass works
 [Sass](https://laravel.com/docs/5.4/mix#sass) - Sass Instructions
 
+I have committed my .env file so you should amend the databse credentials in there.
+
 # The routes
 The route are set in routes/web.php
 
