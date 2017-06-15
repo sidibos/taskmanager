@@ -11,10 +11,6 @@
 |
 */
 
-/*Route::get('/', function () {
-    return view('welcome');
-});
-*/
 Route::get('/', 'TaskController@home');
 Route::get('/task/', 'TaskController@all');
 Route::get('/task/create/', 'TaskController@add');
