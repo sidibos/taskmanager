@@ -15,6 +15,8 @@ The different snippets of the layout are in resources/views/includes, resources/
 # For stylesheet
 I am using Sass, and the files for this are located in resources/sass folder
 
+I am using twitter bootstrap to style the content
+
 # The database
 I am using MySQL for this task and have included the database schema in /database directory, the file is taskmanager_2017-06-15.sql
 
